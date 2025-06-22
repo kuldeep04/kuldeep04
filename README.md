@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm a Lead Software Engineer in Test with 8+ years of experience in designing scalable automation frameworks and delivering high-quality software for Web, API, and Mobile platforms. I’ve worked with top startups like PhonePe and Avalara, building CI/CD pipelines, automating complex flows, and mentoring SDET teams.
+Hello! I'm a Senior Software Engineer in Test with 9+ years of experience in designing scalable automation frameworks and delivering high-quality software for Web, API, and Mobile platforms. I’ve worked with top startups like PhonePe and Avalara, building CI/CD pipelines, automating complex flows, and mentoring SDET teams.
 
 - 🔭 I’m currently exploring AI-integrated test analytics and visual regression testing
 - 🌱 I’m learning Kubernetes, Playwright, and Performance Engineering at scale
