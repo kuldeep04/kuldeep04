@@ -21,7 +21,7 @@ Hello! I'm a Senior Software Engineer in Test with 9+ years of experience in des
 - 💬 Ask me about test automation strategy, mobile upgrade automation, and shift-left testing
 - 📫 How to reach me: kuldeep.yadav0408@gmail.com
 - ⚡ Fun fact: I built a 3rd-party mock service that reduced test failures by 60%
-- 📝 [Resume](https://github.com/kuldeep04/kuldeep04/blob/main/Kuldeep_Yadav_-_Senior_SDET.pdf)
+- 📝 [Resume](https://github.com/kuldeep04/kuldeep04/blob/478e9c2ae873698e087615fb42802d41f302ea44/Kuldeep_Yadav_-_Senior_Automation_Engineer.pdf)
 
 ---
 
