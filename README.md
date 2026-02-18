@@ -12,7 +12,7 @@ I’ve worked with **leading fintech and SaaS companies** like **PhonePe**, **Av
 - 🤝 **Open to collaborate on:** Automation architecture, reusable libraries, and open-source QA tools
 - 📫 **Reach me at:** [kuldeep.yadav0408@gmail.com](mailto:kuldeep.yadav0408@gmail.com)
 - ⚡ **Fun fact:** I built a 3rd-party mock service that reduced automation failures by 60%
-- 📝 [Resume](https://github.com/kuldeep04/kuldeep04/blob/main/Kuldeep_Yadav_-_Senior_Automation_Engineer.pdf)
+- 📝 [Resume](https://github.com/kuldeep04/kuldeep04/blob/main/Kuldeep-Yadav-SDET-Resume.pdf)
 
 ---
 
